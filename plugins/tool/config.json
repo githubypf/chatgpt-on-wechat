@@ -2,7 +2,6 @@
   "tools": ["google-search", "news","morning-news"],
   "kwargs": {
     "debug": true, 
-    "proxy": "http://127.0.0.1:7890",
     "request_timeout": 120, 
     "no_default": false, 
     "news_api_key": "a5cfb0c33abc42ef9de40a32ccd91eee",
