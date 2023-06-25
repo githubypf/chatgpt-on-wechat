@@ -26,3 +26,4 @@ plugins/**/
 !plugins/role
 !plugins/keyword
 !plugins/tool/config.json
+!plugins/godcmd/config.json
